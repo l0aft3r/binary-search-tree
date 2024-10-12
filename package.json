@@ -1,0 +1,20 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "Made my own binary-search-tree class.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0aft3r/binary-search-tree.git"
+  },
+  "author": "l0aft3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l0aft3r/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/l0aft3r/binary-search-tree#readme"
+}
